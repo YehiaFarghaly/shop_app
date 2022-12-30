@@ -9,7 +9,7 @@ ThemeData lightTheme = ThemeData(
       )
 
   ),
-  primarySwatch: Colors.brown,
+  primarySwatch: Colors.orange,
   scaffoldBackgroundColor: Colors.white,
   appBarTheme: AppBarTheme(
     systemOverlayStyle: SystemUiOverlayStyle(
